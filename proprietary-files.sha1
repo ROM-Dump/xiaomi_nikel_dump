@@ -1,0 +1,95 @@
+# All blobs are from "nikel-user 6.0 MRA58K V10.2.2.0.MBFCNXM release-keys" and are pinned with sha1sum values
+
+# ANT
+lib/libantradio.so|92d7f155f40b3d224c5899a96a45dc518470cec3
+lib64/libantradio.so|5e76085cc75ef7c274a8a454375b563c9fcd8994
+
+# Audio
+vendor/etc/diracmobile.config|5f6d4775fc3eea62c8b91a504af20b9c57d3482d
+vendor/etc/diracmobile_b6a.config|0c2d37002dc8f9f2d55cd0f5409dbd2c371c64c6
+
+# Camera
+
+# Charger
+bin/kpoc_charger|2ddb0bbd64769e322daee60dd066e435a377e12e
+lib/libshowlogo.so|ff6c5d7679e7603840f0f38cdf3065ae9cff2f8f
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|848749dc76f93a00ffd68e426b61cfa56dee8fca
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so|63de728bd45be04c7744dc89d55cdd5bbc29a646
+vendor/lib/mediadrm/libwvdrmengine.so|a553baa1dd98c054c2945236e7f51832daa3a466
+vendor/lib64/mediadrm/libdrmclearkeyplugin.so|7c9527e92ea67617eca7127369ff18e86a779e32
+vendor/lib64/mediadrm/libmockdrmcryptoplugin.so|4bbd0839c1d1d63442173c1dad6beb2587586f8f
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/ANT_RAM_CODE_CONN_V1.BIN|4d28798c6ec2ef4368f101621e1e304b6545bd82
+etc/firmware/catcher_filter_1_ulwctg_n.bin|437acf1089478510b1ca5c18d1dbe54e7f27ed7d
+etc/firmware/catcher_filter_3_3g_n.bin|95037293d19a179659da482170ea77650529c4d1
+etc/firmware/dsp_1_ulwctg_n.bin|fe68f5dc7ecb79b9ec24844591746a78699ac189
+etc/firmware/em_filter_1_ulwctg_n.bin|c3a07484ece399c4938c7640cd53629ab9576739
+etc/firmware/MNL.bin|52d4f4dedabcab47a5e6ade1355bc4518c5983a8
+etc/firmware/modem_1_ulwctg_n.img|b4595f2a3a5c794c8cc8627a7ab7985080840c05
+etc/firmware/modem_3_3g_n.img|e4b0344889862d60cd3e1769034094671a4a76bf
+etc/firmware/mt6631/mt6631_fm_v1_coeff.bin|6d8504d6932329c7216c8c016fa7351d084a4d33
+etc/firmware/mt6631/mt6631_fm_v1_patch.bin|89c569e38fa50ca09edc13e02ace3efbd1eaa178
+etc/firmware/mt6631/mt6631_fm_v2_coeff.bin|099600a10a944114aac406d136b625fb416dd779
+etc/firmware/mt6631/mt6631_fm_v3_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6631/mt6631_fm_v3_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6631/mt6631_fm_v4_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6631/mt6631_fm_v4_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6631/mt6631_fm_v5_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6631/mt6631_fm_v5_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mxt308u_v10ab.fw|6cf526636616429492dc5276f87b28556a2b4f8a
+etc/firmware/mxt308u_v10ab.raw|34699970b808489f11dd4cc977cb6e12d7f57bf2
+etc/firmware/pcm_deepidle.bin|6a7e93212cf0d3a8cc25dcf11aa058e2e453898b
+etc/firmware/pcm_deepidle_by_mp1.bin|aeb6e276972d8e0616a1b9543e37d14fcff13292
+etc/firmware/pcm_sodi.bin|5b3610a5652afaeb6fd5a7dbdc16b3d49a3ab9bc
+etc/firmware/pcm_sodi_by_mp1.bin|a7db9cc84e15f26c49793b888cc1e325d1e6ce7b
+etc/firmware/pcm_suspend.bin|7e09d1ec598f58935f5f98be1f9cc830e53d2519
+etc/firmware/pcm_suspend_by_mp1.bin|b786f698f18bd2b50af42c2a892622650e08ac91
+etc/firmware/pcm_vcorefs_hpm.bin|48c9798d93a30da8d7025bb3a3b50096a124d8cb
+etc/firmware/pcm_vcorefs_lpm.bin|c2e5d4a3c670f932e739d37047141ba851c55c1c
+etc/firmware/pcm_vcorefs_ultra.bin|9cce4006f8756a89f1dfcddb2dc8f2efb589ef0f
+etc/firmware/ROMv3_patch_1_0_hdr.bin|541c9f98e133b30102d47463c22ca08b701c51fa
+etc/firmware/ROMv3_patch_1_1_hdr.bin|1831b586b226418cd2d320cff65bcc872bc24c61
+etc/firmware/WIFI_RAM_CODE_6797|81b6a7f1f246fd2890b53b894e74501d228e4474
+etc/firmware/WMT_SOC.cfg|9ee55ee0c5b3437d0470599db530a4f33d6995cb
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/Khronos/OpenCL/vendors/mtk32.icd|3a49b046a1ee9a73578df94207d1c2cdf12fd25c
+vendor/Khronos/OpenCL/vendors/mtk64.icd|dbcc4975324f3ae8aa34f43ea96bba56e2136553
+vendor/lib/libmorpho_panorama_gp.so|aa131ed9a7cd2caf5b1cb72900ca9b2126f7df46
+vendor/lib/libwvdrm_L3.so|7e77482481197997294a834bfbc817a01b6075cd
+vendor/lib/libwvm.so|bfb8835ee864a6c6149c9b89727f3a59924b352a
+vendor/lib/libWVStreamControlAPI_L3.so|61673304827483d44b735a3dd08f0783d10ce92d
+vendor/lib64/libmorpho_panorama_gp.so|384767748fcc957062647830d8dcf310e6707910

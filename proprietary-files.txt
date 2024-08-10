@@ -1,0 +1,95 @@
+# All blobs from nikel-user 6.0 MRA58K V10.2.2.0.MBFCNXM release-keys, unless pinned
+
+# ANT
+lib/libantradio.so
+lib64/libantradio.so
+
+# Audio
+vendor/etc/diracmobile.config
+vendor/etc/diracmobile_b6a.config
+
+# Camera
+
+# Charger
+bin/kpoc_charger
+lib/libshowlogo.so
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+vendor/lib64/mediadrm/libdrmclearkeyplugin.so
+vendor/lib64/mediadrm/libmockdrmcryptoplugin.so
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/ANT_RAM_CODE_CONN_V1.BIN
+etc/firmware/catcher_filter_1_ulwctg_n.bin
+etc/firmware/catcher_filter_3_3g_n.bin
+etc/firmware/dsp_1_ulwctg_n.bin
+etc/firmware/em_filter_1_ulwctg_n.bin
+etc/firmware/MNL.bin
+etc/firmware/modem_1_ulwctg_n.img
+etc/firmware/modem_3_3g_n.img
+etc/firmware/mt6631/mt6631_fm_v1_coeff.bin
+etc/firmware/mt6631/mt6631_fm_v1_patch.bin
+etc/firmware/mt6631/mt6631_fm_v2_coeff.bin
+etc/firmware/mt6631/mt6631_fm_v3_coeff.bin
+etc/firmware/mt6631/mt6631_fm_v3_patch.bin
+etc/firmware/mt6631/mt6631_fm_v4_coeff.bin
+etc/firmware/mt6631/mt6631_fm_v4_patch.bin
+etc/firmware/mt6631/mt6631_fm_v5_coeff.bin
+etc/firmware/mt6631/mt6631_fm_v5_patch.bin
+etc/firmware/mxt308u_v10ab.fw
+etc/firmware/mxt308u_v10ab.raw
+etc/firmware/pcm_deepidle.bin
+etc/firmware/pcm_deepidle_by_mp1.bin
+etc/firmware/pcm_sodi.bin
+etc/firmware/pcm_sodi_by_mp1.bin
+etc/firmware/pcm_suspend.bin
+etc/firmware/pcm_suspend_by_mp1.bin
+etc/firmware/pcm_vcorefs_hpm.bin
+etc/firmware/pcm_vcorefs_lpm.bin
+etc/firmware/pcm_vcorefs_ultra.bin
+etc/firmware/ROMv3_patch_1_0_hdr.bin
+etc/firmware/ROMv3_patch_1_1_hdr.bin
+etc/firmware/WIFI_RAM_CODE_6797
+etc/firmware/WMT_SOC.cfg
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/Khronos/OpenCL/vendors/mtk32.icd
+vendor/Khronos/OpenCL/vendors/mtk64.icd
+vendor/lib/libmorpho_panorama_gp.so
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L3.so
+vendor/lib64/libmorpho_panorama_gp.so
